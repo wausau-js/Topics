@@ -1,11 +1,14 @@
 # Topics
 
 * [Typescript](https://www.typescriptlang.org/)
-* BDD
+* Testing 101
 * [SWR](https://swr.now.sh/)
-* React for Beginners
-* Graphql
-* Vue
-* Angular
+* [React](https://reactjs.org/) for Beginners
+* [Graphql](https://graphql.org/)
+* [Vue](https://vuejs.org/)
+* [Angular](https://angular.io/)
 * Robots
-* RaspberryPi
+* [RaspberryPi](https://www.raspberrypi.org/)
+* [Docker](https://www.docker.com/)
+* [Kafka](https://kafka.apache.org/)
+* [Dgraph](https://dgraph.io/)
